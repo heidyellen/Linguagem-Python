@@ -1,0 +1,8 @@
+DEBUG:root:Esta ï¿½ uma mensagem de debug
+INFO:root:Esta ï¿½ uma mensagem de informaï¿½ï¿½o
+WARNING:root:Esta ï¿½ uma mensagem de aviso
+ERROR:root:Esta ï¿½ uma mensagem de erro
+CRITICAL:root:Esta ï¿½ uma mensagem crï¿½tica
+2023-06-19 23:06:17,320: INFO: main Linha:22 Pessoa:jess Esta é uma mensagem de informação
+2023-06-19 23:06:17,321: WARNING: main Linha:23 Pessoa:jess Esta é uma mensagem de aviso
+2023-06-19 23:06:17,321: DEBUG: outro_log Linha:9 Pessoa:jess Esta é uma mensagem de debug
